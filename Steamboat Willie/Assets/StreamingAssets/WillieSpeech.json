@@ -1,0 +1,94 @@
+{
+    "day1": {
+        "Puhu1": "Morning! As my new deckhand I've got some tasks for you",
+        "Siivoa": "Go wash the deck!",
+        "Puhu2": "Great job!",
+        "Peruna": "Chop some potatos will ya!",
+        "Puhu3": "Well done!",
+        "Hiili": "Feed the fire with coal!",
+        "Puhu4": "Good, I wont be needing your help anymore today!",
+        "Nukkumaan": "You can go rest now or do what you want"
+    },
+    "day2": {
+        "Siivoa": "Deck is looking dirty, you know what to do!",
+        "Puhu1": "As shiny as ever!",
+        "Peruna": "Chop some tatos will ya!",
+        "Puhu2": "Good Chopping!",
+        "Puhu3": "Hey, could you take the wheel for a second?",
+        "Ruori": "I need to check some things...",
+        "Puhu4": "...",
+        "Hiili": "Feed the furnace, then do as you like...",
+        "Nukkumaan": "You can go to sleep now or do as you like..."
+    },
+    "day3": {
+        "Puhu1": "You're already awake, it seems.",
+        "Siivoa": "You know how it goes, clean the deck.",
+        "Puhu2": "Clean deck as always!",
+        "Peruna1": "We need food, so you could chop the potatos.",
+        "Puhu3": "I saw we are running out of potatos...",
+        "Puhu4": "There are more under the deck, go fetch some",
+        "Puhu5": "The hatch is located on the front deck, in front of us.",
+        "HaePeruna": "Before going down, take the candle that is on top of the barrel",
+        "Puhu6": "Quite the adventure wasn't it?",
+        "Puhu7": "Dont go wandering down there too often okay?",
+        "Peruna2": "You should do some more chopping now that you got more potatos",
+        "Puhu8": "Great job with the potatos...",
+        "Puhu9": "I still have a little task for you...",
+        "Puhu10": "We still need more coal from under the deck.",
+        "HaeHiili": "Get the coal and throw some into the fire before going to sleep",
+        "Puhu11": "Good, not afraid of the dark huh...",
+        "Hiili": "Feed some into the fires, and then you can clock out.",
+        "Nukkumaan": "It was a long day, go get some sleep."
+    },
+    "day4": {
+        "Puhu1": "Morning. I may have some bad news...",
+        "Puhu2": "We might be a little lost, but don't you worry.",
+        "Puhu3": "I have everything under control so don't worry about it",
+        "Siivoa": "You have some deck cleaning to do eh?",
+        "Puhu4": "Looking clean, job well done!",
+        "HaePeruna": "We need more potato sacks, go get some",
+        "Puhu5": "You took your time.",
+        "Peruna": "You know what to do, chop them.",
+        "Puhu6": "You done with the potatos?",
+        "Puhu7": "I got some coal from below and fed it into the fire.",
+        "Nukkumaan": "Save your energy and get some rest."
+    },
+    "day5": {
+        "Puhu1": "I have no clue where we are...",
+        "Puhu2": "I don't want to worry you but...",
+        "Puhu3": "It's starting to look hopeless.",
+        "Siivoa": "But the deck must remain shiny, get to it",
+        "Puhu4": "You still got it.",
+        "EtsiPerunaa": "Get some potatoes and chop them, im starving.",
+        "Puhu5": "No more you say?",
+        "Puhu6": "No need to worry, we will figure this out",
+        "Hiili": "We should have coal, feed the fire so it doesn't have to starve.",
+        "Nukkumaan": "You can go rest now..."
+    },
+    "day6": {
+        "Puhu1": "Can you take the wheel for a while",
+        "Ruori": "I could sleep every once in a while",
+        "Puhu2": "...",
+        "Nukkumaan": "I can take it from here, go rest"
+    },
+    "day7": {
+        "Puhu1": "The deck...",
+        "Puhu2": "Needs...",
+        "Siivoa": "Cleaning.",
+        "Puhu3": "That's it...",
+        "Puhu4": "I guess.",
+        "Puhu5": "I wish...",
+        "Puhu6": "I could ask you to cut more potatos.",
+        "Hiili": "Throw some coals into the fire and do whatever",
+        "Nukkumaan": "You should rest now..."
+    },
+    "day8": {
+        "Puhu1": "You know how we have no food? Well I figured it out…",
+        "Puhu2": "I’ll give you a 3 second head start"
+    },
+    "day10": {
+        "EtsiWillie": "What are you doing here?",
+        "NukkumaanYöllä": "Go to sleep"
+    }
+
+}
